@@ -1,3 +1,4 @@
-# Github Campus Program
+# Welcome to the Institute of Cancer Research!
 
-Please be aware that all use of the ICR on github is bound by the [github campus licence](https://education.github.com/schools/terms).
+### Github Campus Program
+Note - use of the ICR on github is bound by the [github campus licence](https://education.github.com/schools/terms).
